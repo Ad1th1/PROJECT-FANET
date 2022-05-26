@@ -1,7 +1,9 @@
 # PROJECT-FANET
 
 Like every other engineer on the planet, I too have had(and continue to have) my phase of fascination with robots.
+
 Let's face it though! Robots are friggin cool!
+
 What's cooler than a robot? Maybe, a drone....
 
 I mean, a robot that flies is "gonnsta" be awesome!
